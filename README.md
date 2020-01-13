@@ -8,4 +8,7 @@ A linebot that returns 6 singular and plural forms of german verb conjugations i
 
 
 ![image](https://github.com/phuanggh/german-linebot-github/blob/master/german-linebot-return-msg/german-linebot-return-message-50.png)
+![image](https://github.com/phuanggh/german-linebot-github/blob/master/german-linebot-return-msg/german-linebot-return-message2-50.png)
+
 </ul>
+
