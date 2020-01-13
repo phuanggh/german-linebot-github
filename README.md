@@ -7,5 +7,5 @@ A linebot that returns 6 singular and plural forms of german verb conjugations i
 <li>Line ID <span style="color: #3366ff;"><strong>@388tvpkk</strong></span></li>
 
 
-![image](https://imgur.com/t8RKd4X)
+![image](https://github.com/phuanggh/german-linebot-github/blob/master/german-linebot-return-msg/german-linebot-return-message-50.png)
 </ul>
