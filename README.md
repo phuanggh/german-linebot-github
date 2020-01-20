@@ -6,8 +6,13 @@ A linebot that returns 6 singular and plural forms of german verb conjugations i
 <li>Use Python to parse website Verbix</li>
 <li>Line ID <span style="color: #3366ff;"><strong>@388tvpkk</strong></span></li>
 </ul>
+<p></p>
+<p><strong>Words Found</strong></p>
 
 ![image](https://github.com/phuanggh/german-linebot-github/blob/master/german-linebot-return-msg/german-linebot-return-message-50.png)
+
+<p></p>
+<p><strong>Words Not Found</strong></p>
 
 ![image](https://github.com/phuanggh/german-linebot-github/blob/master/german-linebot-return-msg/german-linebot-return-message2-50.png)
 
