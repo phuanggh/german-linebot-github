@@ -4,7 +4,7 @@ A linebot that returns 6 singular and plural forms of german verb conjugations i
 <ul>
 <li>Built with Heroku</li>
 <li>Use Python to parse website Verbix</li>
-<li>Line ID <span style="color: #3366ff;"><strong>@388tvpkk</strong></span></li>
+<li>Linebot ID <span style="color: #3366ff;"><strong>@388tvpkk</strong></span></li>
 </ul>
 <p></p>
 <p><strong>Words Found</strong></p>
